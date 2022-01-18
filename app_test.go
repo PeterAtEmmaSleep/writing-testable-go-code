@@ -87,17 +87,3 @@ func TestHandle(t *testing.T) {
 
 	// ... and so on
 }
-
-func TestAuthorize(t *testing.T) {}
-
-func TestUnmarshall(t *testing.T) {}
-
-func TestValidate(t *testing.T) {}
-
-func TestTransform(t *testing.T) {}
-
-func TestCallExtApi(t *testing.T) {}
-
-func TestRespondWithOK(t *testing.T) {}
-
-func TestRspondWithInternalServicerError(t *testing.T) {}
